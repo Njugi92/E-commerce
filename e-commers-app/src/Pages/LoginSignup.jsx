@@ -1,7 +1,8 @@
 import React from 'react'
+import './CSS/LoginSignup.css'
 
 export const LoginSignup = () => {
   return (
-    <div>LoginSignup</div>
+    <div className='loginsignup'></div>
   )
 }
